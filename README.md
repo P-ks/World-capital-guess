@@ -7,4 +7,4 @@ World Capital Guess is a  quiz game designed using backend tech where users gues
 ## Features
 
 - **Country to Capital Quiz**: Guess the capital city based on the given country name.
-- **Scoring System**: Tracks of correct and incorrect answers based on those points will be awarded.
+- **Scoring System**: Tracks of correct and incorrect answers based on those points will be rewarded.
