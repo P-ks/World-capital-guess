@@ -2,7 +2,7 @@
 
 ## Project Description
 
-World Capital Guess is a  quiz game designed using backend tech where users guess the capital city of a given country. It helps users improve their knowledge of world geography.
+World Capital Guess is a  quiz game designed using backend tech where users guess the capital  city of a given country. It helps users improve their knowledge of world geography.
 
 ## Features
 
